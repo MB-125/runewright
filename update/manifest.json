@@ -1,8 +1,8 @@
 {
   "applicationId": "com.merveille.runewright",
-  "version": "1.2.3",
-  "notes": "Build anywhere: blocks can now go on Fractured ground, against walls and gates, over deep water, and up to the sky limit, with longer reach.",
-  "size": 2080933,
-  "sha256": "deb76a5f0d0d3baf53b42abb20cf288f092bcc443a64f83180705f0b04800740",
+  "version": "1.2.4",
+  "notes": "Hold Shift and click to stack blocks on top of the one you aim at, even tall pillars above your head.",
+  "size": 2081321,
+  "sha256": "9bb5309614656fdc908f6bf857fd7957525f97862551a000582d39b91d1edc60",
   "resourcesURL": "https://raw.githubusercontent.com/MB-125/runewright/main/update/resources.neu"
 }
