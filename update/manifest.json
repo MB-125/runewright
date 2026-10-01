@@ -1,8 +1,8 @@
 {
   "applicationId": "com.merveille.runewright",
-  "version": "1.2.1",
-  "notes": "Fixed falling below the ground: if you ever get stuck in the ground you are lifted back up. Taking the top block off a tall build no longer cuts it down.",
-  "size": 2080877,
-  "sha256": "4933448a974ace18071d6ded2276a5dbf9e9fdc92a962bafaff034b5e51d281c",
+  "version": "1.2.2",
+  "notes": "Fixed: walking into a gate built on raised ground or blocks dropped you below the ground.",
+  "size": 2080978,
+  "sha256": "6ac3a9fa8ec7fd8e5c52c0110ae114c71de36e954f69b18243f17595acb3c346",
   "resourcesURL": "https://raw.githubusercontent.com/MB-125/runewright/main/update/resources.neu"
 }
