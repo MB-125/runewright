@@ -1,8 +1,8 @@
 {
   "applicationId": "com.merveille.runewright",
-  "version": "1.2.4",
-  "notes": "Hold Shift and click to stack blocks on top of the one you aim at, even tall pillars above your head.",
-  "size": 2081321,
-  "sha256": "9bb5309614656fdc908f6bf857fd7957525f97862551a000582d39b91d1edc60",
+  "version": "1.2.5",
+  "notes": "Fixed 'Something is built there' when building against walls and gates; boulders in the way are cleared; clearer messages.",
+  "size": 2082027,
+  "sha256": "4ea44317247d20061e72f3e60a0088990547af2fc42fa89c62e97ce44554118f",
   "resourcesURL": "https://raw.githubusercontent.com/MB-125/runewright/main/update/resources.neu"
 }
