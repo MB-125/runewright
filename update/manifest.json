@@ -1,8 +1,8 @@
 {
   "applicationId": "com.merveille.runewright",
-  "version": "1.1.2",
-  "notes": "Fixed the freeze when flying to or landing on the ship.",
-  "size": 2033494,
-  "sha256": "0c8c0d18841607dac37c228038b5776e13db4a66a54f2378b25d963bd360e1d2",
+  "version": "1.2.0",
+  "notes": "New: a full build menu (press B while holding Build, tool 7) with 54 block types, and block strength tiers you can upgrade with R.",
+  "size": 2080094,
+  "sha256": "e6066abe09445d8a9ea70dee45054341cdff0a64ae47324ab7caac5fe144718e",
   "resourcesURL": "https://raw.githubusercontent.com/MB-125/runewright/main/update/resources.neu"
 }
