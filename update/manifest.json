@@ -1,8 +1,8 @@
 {
   "applicationId": "com.merveille.runewright",
-  "version": "1.2.0",
-  "notes": "New: a full build menu (press B while holding Build, tool 7) with 54 block types, and block strength tiers you can upgrade with R.",
-  "size": 2080094,
-  "sha256": "e6066abe09445d8a9ea70dee45054341cdff0a64ae47324ab7caac5fe144718e",
+  "version": "1.2.1",
+  "notes": "Fixed falling below the ground: if you ever get stuck in the ground you are lifted back up. Taking the top block off a tall build no longer cuts it down.",
+  "size": 2080877,
+  "sha256": "4933448a974ace18071d6ded2276a5dbf9e9fdc92a962bafaff034b5e51d281c",
   "resourcesURL": "https://raw.githubusercontent.com/MB-125/runewright/main/update/resources.neu"
 }
