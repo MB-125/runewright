@@ -1,8 +1,8 @@
 {
   "applicationId": "com.merveille.runewright",
-  "version": "1.2.2",
-  "notes": "Fixed: walking into a gate built on raised ground or blocks dropped you below the ground.",
-  "size": 2080978,
-  "sha256": "6ac3a9fa8ec7fd8e5c52c0110ae114c71de36e954f69b18243f17595acb3c346",
+  "version": "1.2.3",
+  "notes": "Build anywhere: blocks can now go on Fractured ground, against walls and gates, over deep water, and up to the sky limit, with longer reach.",
+  "size": 2080933,
+  "sha256": "deb76a5f0d0d3baf53b42abb20cf288f092bcc443a64f83180705f0b04800740",
   "resourcesURL": "https://raw.githubusercontent.com/MB-125/runewright/main/update/resources.neu"
 }
