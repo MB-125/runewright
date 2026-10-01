@@ -1,8 +1,8 @@
 {
   "applicationId": "com.merveille.runewright",
-  "version": "1.2.5",
-  "notes": "Fixed 'Something is built there' when building against walls and gates; boulders in the way are cleared; clearer messages.",
-  "size": 2082027,
-  "sha256": "4ea44317247d20061e72f3e60a0088990547af2fc42fa89c62e97ce44554118f",
+  "version": "1.2.6",
+  "notes": "Right-click now removes any block (dirt too); the hammer digs anywhere; the hotbar no longer fills with copies of one block; clearer block icons.",
+  "size": 2082641,
+  "sha256": "fe63cb7e5cf1c701410a4659d35d0be2b7112ceaab630ab2ddac8f5a1e85d0f7",
   "resourcesURL": "https://raw.githubusercontent.com/MB-125/runewright/main/update/resources.neu"
 }
