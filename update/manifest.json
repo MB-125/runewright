@@ -1,8 +1,8 @@
 {
   "applicationId": "com.merveille.runewright",
-  "version": "1.1.1",
-  "notes": "The title screen now shows your game version. Updates arrive by themselves from now on.",
-  "size": 2033394,
-  "sha256": "bbcce5fff4b47fec2483f463f4e6b1e8845470cf2eba77d614d3983dd64e8767",
+  "version": "1.1.2",
+  "notes": "Fixed the freeze when flying to or landing on the ship.",
+  "size": 2033494,
+  "sha256": "0c8c0d18841607dac37c228038b5776e13db4a66a54f2378b25d963bd360e1d2",
   "resourcesURL": "https://raw.githubusercontent.com/MB-125/runewright/main/update/resources.neu"
 }
