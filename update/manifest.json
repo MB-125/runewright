@@ -1,8 +1,8 @@
 {
   "applicationId": "com.merveille.runewright",
-  "version": "1.4.0",
-  "notes": "Easy difficulty (new default) with Normal/Hard in Settings, clearer messages, hammer dig fix, gunship fixes, smoother pause and controls",
-  "size": 2098842,
-  "sha256": "2e8f5dd87d98d7c808b751e0a091174f5550726122c3b1142cf94a82d65ba6f2",
+  "version": "1.4.1",
+  "notes": "Controls are easy to find: F1 shows every key on one page, a big prompt under your aim shows what you can do right there, and a shorter key list stays on screen",
+  "size": 2106465,
+  "sha256": "48edbac3a36be5c069580aa692453d0b45de0207b302f0891fd35b0e2777d52e",
   "resourcesURL": "https://raw.githubusercontent.com/MB-125/runewright/main/update/resources.neu"
 }
