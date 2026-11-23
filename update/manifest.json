@@ -1,8 +1,8 @@
 {
   "applicationId": "com.merveille.runewright",
-  "version": "1.3.1",
-  "notes": "Building overhaul: 15 fixes from a full review and a test build of a complete house. Glass shows the ground, walls vs tops aim correctly, no hidden zone claims, clearer hints, Shift+R asks first.",
-  "size": 2093625,
-  "sha256": "e15808b41337c695461482baff55f04a9388cfa8df77db68d275586e6dc2fb3d",
+  "version": "1.4.0",
+  "notes": "Easy difficulty (new default) with Normal/Hard in Settings, clearer messages, hammer dig fix, gunship fixes, smoother pause and controls",
+  "size": 2098842,
+  "sha256": "2e8f5dd87d98d7c808b751e0a091174f5550726122c3b1142cf94a82d65ba6f2",
   "resourcesURL": "https://raw.githubusercontent.com/MB-125/runewright/main/update/resources.neu"
 }
